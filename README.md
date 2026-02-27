@@ -19,4 +19,4 @@ Praticar os principais fundamentos do Java por meio da construção de uma aplic
 
 ## 📈 Status do Projeto
 
-🚧 Em desenvolvimento — projeto voltado para aprendizado e evolução técnica em Java Back-End.
+🚧 Em desenvolvimento - projeto voltado para aprendizado e evolução técnica em Java Back-End.
